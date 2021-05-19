@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> welcome to my small corner in the internet </title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+        <meta charset="UTF-8">
+        <meta name="keywords" content="majorgamerjay, linux, gentoo, open-source, foss, gaming">
+        <meta name="description" content="jay's website">
+        <meta name="author" content="majorgamerjay">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <p align="center">
+            <b>
+                <a href="index.html">home</a>
+                <a href="./manuals.html">manuals</a>
+                <a href="./resources.html">resources</a>
+                <a href="https://github.com/MajorGamerJay/">github</a>
+                <a href="https://steamcommunity.com/id/majorgamerjay/">steam</a>
+                <a href="https://myanimelist.net/animelist/majorgamerjay">myanimelist</a>
+            </b>
+        </p>
+<h1 id="plipple">plipple</h1>
+
+<h3 id="majorgamerjay@protonmail.com">majorgamerjay@protonmail.com</h3>
+
+<p>Plipple is a simple bash script that can be used to make playlist of songs using
+directories and symlinks. This as a result, does not take much space and can be
+easily managable.</p>
+
+<h2 id="How%20does%20it%20work?">How does it work?</h2>
+
+<pre><code>Music
+|- Songs
+| |- Song1.mp3
+| |- Song2.mp3
+| |- Song3.mp3
+|- Playlists
+  |- Jazz
+    |- Song1.mp3@ -&#62; ..&#47;..&#47;Songs&#47;Song1.mp3
+    |- Song2.mp3@ -&#62; ..&#47;..&#47;Songs&#47;Song2.mp3
+  |- Rock
+    |- Song3.mp3@ -&#62; ..&#47;..&#47;Songs&#47;Song3.mp3
+</code></pre>
+
+<p>Here is a simple directory map of a ~&#47;Music. Plipple will only work on <code>~&#47;Music&#47;Playlists</code>.</p>
+
+<p>It will collect songs from anywhere else other than <code>~&#47;Music&#47;Playlists</code>. And the directories
+in the playlists folder are playlists itself (e.g. in the shown example, <code>Jazz</code> and <code>Rock</code>)
+are the playlists.</p>
+
+<p>Manage the playlists and play songs from it as if they are simply directories and music files.
+This should work with music players presumably since the symlinks basically points to the songs.</p>
+
+<h2 id="How%20do%20I%20use%20it?">How do I use it?</h2>
+
+<h4 id="Required%20dependencies:">Required dependencies:</h4>
+
+<ul>
+<li>Bash</li>
+<li>whiptail</li>
+</ul>
+
+<p>Everything else should work with GNU coreutils. I don&#8217;t know about other coreutils. If possible,
+please do check and open Issues&#47;send PRs.</p>
+
+<p>Just run <code>plipple -r</code> (<code>-r</code> stands for <code>--run</code>) and it will open up whiptail dialog for
+you!</p>
+
+<h2 id="How%20do%20I%20install%20it?">How do I install it?</h2>
+
+<ol>
+<li>Clone this repository</li>
+<li><code>make install</code> (Run as root obviously)</li>
+</ol>
+
+<p>And that&#8217;s it!</p>
+
+<h2 id="License">License</h2>
+
+<p>This program is created under the MIT License.</p>
+
+<h2 id="Screenshots">Screenshots</h2>
+
+<p><img src="https://i.imgur.com/MfU6Ccn.png" alt="Screenshot 1" width="1280" height="720" /></p>
+
+<p><img src="https://i.imgur.com/y5oeqSQ.png" alt="Screenshot 2" width="1280" height="720" /></p>
+        <p align="center"> ~~ goodbye and come visit again soon! ~~ </p>
+    </body>
+</html>
