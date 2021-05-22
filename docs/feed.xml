@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>majorgamerjay's update feed</title>
+        <link>https://majorgamerjay.github.io</link>
+        <description>
+            This is an update feed from majorgamerjay's website where he
+            posts different articles, manuals and resources about things.
+        </description>
+        <language>en-us</language>
+        <item>
+            <title>My review of NieR Automata(tm)</title>
+            <pubDate>Sat, 22 May 2021 14:00:00 +0600</pubDate>
+            <link>https://majorgamerjay.github.io/nier_automata.html</link>
+            <description><![CDATA[Visit this <a href="https://majorgamerjay.github.io/nier_automata.html">link</a> to my website to see the review!]]></description>
+            <author>majorgamerjay@protonmail.com</author>
+        </item>
+    </channel>
+</rss>
