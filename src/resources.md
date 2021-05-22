@@ -1,3 +1,5 @@
+# Resources
+
 I upload a few resources that aren't mine (PDFs, books etc.) Most of these are licensed under GNU General Public License. Since these can be useful to other people, I'll keep uploading them. If you wanna contribute some resources here, feel free to! Just send link through a pull request and I'll gladly merge it. :)
 
 0. [Jerome Belleman's guide to LUKS](https://jeromebelleman.gitlab.io/posts/filesystems/cryptsetup/)
