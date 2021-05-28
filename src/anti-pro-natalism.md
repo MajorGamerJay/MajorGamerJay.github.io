@@ -133,7 +133,7 @@ mean it in a bad way) is a lot less than before and so
 people reproduce a lot less. So people marry either out of
 religious or natural obligations to maintain the society.
 As I said before, it results in a bad environment for the
-support to grow up.
+child to grow up.
 
 My point is that I want to clarify anti-natalism is *not* a
 bad thing and people should not be obligated to be a
