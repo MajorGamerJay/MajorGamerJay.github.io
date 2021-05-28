@@ -49,7 +49,7 @@ more on that later. Video games and media such as *Half-Life
 2* series or the anime *Darling in the Franxx*[^an] promotes
 natalism in a few ways.
 
-Most of the reasons showed towards both of the
+Most of the reasons showed towards both sides are
 conditional/adheres to the environment they are talking
 about. For example, in scenario A natalism would make sense
 and in scenario B, it does not make sense. And sometimes
@@ -157,7 +157,7 @@ consciously.
 This is my take on natalism or anti-natalism. If I said
 something wrong and you want to correct me, just contact me
 on discord or send me an email to
-*majorgamerjay@protonmail.com* and as always, thanks for
+<majorgamerjay@protonmail.com> and as always, thanks for
 reading my worthless stupid opinion about another mundane
 topic.
 
