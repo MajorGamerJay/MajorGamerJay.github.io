@@ -12,4 +12,5 @@ Greetings stranger, this is my personal site. Mostly contains stuff about me and
 0. [play NieR Automata(tm)](./nier_automata.html)
 
 ### Other articles:
+0. [My thoughts and stance on Natalism](./anti-pro-natalism.html)
 0. [Internet freedom?](./internet-freedom.html)

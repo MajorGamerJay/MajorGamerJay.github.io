@@ -6,8 +6,8 @@ natalism and are against natalism.
 
 ### What is Natalism?
 
-*Natalism is the belief that promotes reproduction of life.* -
-John McKeown
+> *Natalism is the belief that promotes reproduction of life.*
+- John McKeown[^nt]
 
 Basically the belief that having children are a good
 thing/compulsory(in some cases) is known as natalism. And
@@ -46,7 +46,7 @@ workflow us people go through now.
 People in a few countries such as Japan prefers
 anti-natalism and they reason their cause on it. I will get
 more on that later. Video games and media such as *Half-Life
-2* series or the anime Darling in The FranXX promotes
+2* series or the anime *Darling in the Franxx*[^an] promotes
 natalism in a few ways.
 
 Most of the reasons showed towards both of the
@@ -55,6 +55,41 @@ about. For example, in scenario A natalism would make sense
 and in scenario B, it does not make sense. And sometimes
 both ideologies are encouraged by external obligations such
 as religious and social beliefs.
+
+### People's reason to be Natalists/Anti-natalists
+
+Here, I have oversimplified the arguments of Natalists and
+anti-natalists. Some of these may not be accurate or maybe
+more but this article is about my two cents on the topic, so
+I am just displaying this to try to make an objective sense
+about this to the reader.
+
+#### Arguments of Natalists:
+
+There are vast arguments for Natalism since most of us grew
+up with this mindset, most of them are related to normal
+affairs of the world. Anyone can think them up in a bit so
+I'm not going to display them here.
+
+#### Arguments of Anti-Natalists:
+
+There are TONS of arguments about anti-natalism and that
+cannot be covered nor a lot of them I don't know. Since as I
+said before, this article is just my two cents about this
+topic.
+
+- Impossibility of consent.
+    - You cannot determine the fact that your children
+      wanted to be in this world. This is an important topic
+      to think about as this world may work in their favor
+      or may work against them. Which ultimately brings the
+      fault to the parent.
+- Death is a harm.
+    - People have to die someday and that is a miserable
+      thing to leave this world. So a lot of people wishe
+      sthat they weren't born.
+- Dissatisfactory life
+    - This is self-explanatory. :'(
 
 ### My pick on this matter
 
@@ -122,6 +157,14 @@ consciously.
 This is my take on natalism or anti-natalism. If I said
 something wrong and you want to correct me, just contact me
 on discord or send me an email to
-majorgamerjay@protonmail.com and as always, thanks for
+*majorgamerjay@protonmail.com* and as always, thanks for
 reading my worthless stupid opinion about another mundane
 topic.
+
+[^nt]:
+    [*God's Babies: Natalism and Bible Interpretation in Modern America*](https://books.google.com.bd/books?id=D5TbBQAAQBAJ&redir_esc=y)
+    by John McKewon
+
+[^an]:
+    [*Childbirth and Politics in DARLING in the FRANXX*](https://www.animefeminist.com/discourse-childbirth-and-politics-in-darling-in-the-franxx/)
+    , a political and philosophical critique of [*DarliFra*](https://en.wikipedia.org/wiki/Darling_in_the_Franxx) by Caitin Moore
