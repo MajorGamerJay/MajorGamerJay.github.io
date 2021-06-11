@@ -17,8 +17,6 @@
 # Enjoy. ;)
 
 API_URL='https://api.anonfiles.com/'
-PARSED_ARGUMENTS=$(getopt -a -n anonfiles -o u:i: --long upload:,info: -- "$@")
-GETOPT_ERRCODE=$?
 
 usage() {
     echo "Usage: anonfiles [ -u | --upload ] filename
@@ -26,6 +24,14 @@ usage() {
 
     exit 2
 }
+
+if [ $# -eq 0 ]; then
+    echo "Illegal number of arguments"
+    usage
+fi
+
+PARSED_ARGUMENTS=$(getopt -a -n anonfiles -o hu:i: --long help,upload:,info: -- "$@")
+GETOPT_ERRCODE=$?
 
 if [ "$GETOPT_ERRCODE" != "0" ]; then
     usage
@@ -45,7 +51,7 @@ while true; do
     case $1 in
         -u | --upload ) upload   $2 ; shift 2 ;;
         -i | --info   ) get_info $2 ; shift 2 ;;
-
+        -h | --help   ) usage       ;;
         -- ) shift
              if [ -z $1 ]; then
                  exit
