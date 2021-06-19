@@ -4,6 +4,9 @@ Greetings stranger, this is my personal site. Mostly contains stuff about me and
 
 I rarely update the **RSS** feed. Better if you don't follow it. :P
 
+### One Liners
+0. Don't make `luajit` your single target in Portage or you'll get this but a lot: <https://pastebin.com/Lh1GRGrY>
+
 ### Bash scripts
 0. [animepahe](./animepahe.bash)
 0. [anonfiles](./anonfiles.bash)
