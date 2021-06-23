@@ -53,7 +53,7 @@ This scam involved three platforms,
 
 ### Let's introduce the platforms
 
-Skip this section if you don't know what Discord and Steam is.
+Skip this section if you know what Discord and Steam is.
 
 0. Discord is a platform where people can chat with each other in an IRC
 network like fashion but with a lot more features. The discord servers can
