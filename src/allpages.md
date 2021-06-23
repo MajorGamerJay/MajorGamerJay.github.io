@@ -17,4 +17,5 @@ Here is a list of all pages in this website. Sorted alphabetically
 - [plipple.html](plipple.html)
 - [resources.html](resources.html)
 - [sel.html](sel.html)
+- [ses.html](ses.html)
 - [travelling.html](travelling.html)
