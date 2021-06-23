@@ -5,6 +5,22 @@ a clever form of social engineered[^se] scam. This was done through the
 use of Discord and this was way more deep than a normal scam you
 would see in any of those social media.
 
+<p align="center">
+    <a class="sectionlink" href="#About Social Engineering and about Scams">About Social Engineering and about Scams</a></br>
+    <a href="#Low effort scams are a waste">Low effort scams are a waste</a></br>
+    <a href="#Socially engineered scams made with high effort">Socially engineered scams made with high effort</a></br>
+    <a class="sectionlink" href="#The Scam">The Scam</a></br>
+    <a href="#Let&amp;#8217;s%20introduce%20the%20platforms">Let's introduce the platforms</a></br>
+    <a href="#Stage 1: Conditions and preparation">Conditions and preparations</a></br>
+    <a href="#Stage 2: Social engineering and tricking the user">Social engineering and tricking the user</a></br>
+    <a href="#Stage 3: Acquiring targeted information">Acquiring targeted information</a></br>
+    <a href="#Stage 4: Pressure into blackmail">Pressure into blackmail</a></br>
+    <a href="#Stage 5: Payment or refusal?">Payment or refusal?</a></br>
+    <a href="#Stage 6: Solution">Solution</a></br>
+    <a class="sectionlink" href="#Damage Analysis">Damage Analysis</a></br>
+    <a href="#Conclusion">Conclusion</a></br>
+</p>
+
 ## About Social Engineering and about Scams
 
 ### Low effort scams are a waste
