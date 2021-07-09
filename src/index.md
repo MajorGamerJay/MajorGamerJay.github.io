@@ -2,7 +2,7 @@
 
 Greetings stranger, this is my personal site. Mostly contains stuff about me and has article related to things. I have a few pages listed on top which may contain links you wanna check out. Other than that, just enjoy the shitty website!
 
-I rarely update the **RSS** feed. Better if you don't follow it. :P
+I rarely update the **RSS** feed. Better if you don't follow it.
 
 ### One Liners
 0. Don't make `luajit` your single target in Portage or you'll get this but a lot: <https://pastebin.com/Lh1GRGrY>
