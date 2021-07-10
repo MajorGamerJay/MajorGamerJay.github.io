@@ -15,6 +15,7 @@ I rarely update the **RSS** feed. Better if you don't follow it.
 0. [fread()](./fread.html)
 
 ### Why you should:
+0. [play Tales of Berseria](./tob.html)
 0. [watch Serial Experiments Lain](./sel.html)
 0. [play NieR Automata(tm)](./nier_automata.html)
 
