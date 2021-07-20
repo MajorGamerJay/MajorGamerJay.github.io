@@ -11,7 +11,6 @@ Here is a list of all pages in this website. Sorted alphabetically
 - [internet-freedom.html](internet-freedom.html)
 - [links.html](links.html)
 - [manuals.html](manuals.html)
-- [mirpur-cant.html](mirpur-cant.html)
 - [mpdcastw-arch.html](mpdcastw-arch.html)
 - [nier_automata.html](nier_automata.html)
 - [plipple.html](plipple.html)

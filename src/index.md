@@ -4,9 +4,6 @@ Greetings stranger, this is my personal site. Mostly contains stuff about me and
 
 I rarely update the **RSS** feed. Better if you don't follow it.
 
-### One Liners
-0. Don't make `luajit` your single target in Portage or you'll get this but a lot: <https://pastebin.com/Lh1GRGrY>
-
 ### Bash scripts
 0. [animepahe](./animepahe.bash)
 0. [anonfiles](./anonfiles.bash)
@@ -24,4 +21,3 @@ I rarely update the **RSS** feed. Better if you don't follow it.
 engineered scams](./ses.html)
 0. [Travelling](./travelling.html)
 0. [My thoughts and stance on Natalism](./anti-pro-natalism.html)
-0. [Internet freedom?](./internet-freedom.html)
