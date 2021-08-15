@@ -4,6 +4,9 @@ Greetings stranger, this is my personal site. Mostly contains anything that I ha
 
 I rarely update the **RSS** feed. Better if you don't follow it.
 
+***recently I added a music stream to my site which streams music directly from my laptop***
+[check](./music.html) ***it out if you wanna listen to some doujin music***
+
 ### Bash scripts
 0. [animepahe](./animepahe.bash)
 0. [anonfiles](./anonfiles.bash)
