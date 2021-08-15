@@ -1,6 +1,6 @@
 # Welcome
 
-Greetings stranger, this is my personal site. Mostly contains stuff about me and has article related to things. I have a few pages listed on top which may contain links you wanna check out. Other than that, just enjoy the shitty website!
+Greetings stranger, this is my personal site. Mostly contains anything that I have added effort to and has article related to useless stuff I cared much about sometimes. I have a few pages listed on top which may contain links you wanna check out. Other than that, just enjoy the shitty website!
 
 I rarely update the **RSS** feed. Better if you don't follow it.
 
