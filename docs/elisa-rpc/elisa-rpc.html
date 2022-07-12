@@ -1,0 +1,47 @@
+<h1 id="Elisa-RPC">Elisa-RPC</h1>
+
+<h3 id="MajorGamerJay">MajorGamerJay</h3>
+
+<h4 id="majorgamerjay@protonmail.com">majorgamerjay@protonmail.com</h4>
+
+<p><img src="https://i.imgur.com/3YvZzRV.png" alt="screenshot" align="right" height=240px>
+elisa-rpc is a program that shows your currently playing song in Elisa music
+player to discord. Uses D-Bus to communicate with the Elisa music player and
+then show music information to Discord.</p>
+
+<h2 id="How%20to%20use%20it">How to use it</h2>
+
+<p>To use it, copy the config file template (config_template.json)
+from the root directory to the &#47;src directory.</p>
+
+<h3 id="Get%20required%20dependencies!">Get required dependencies!</h3>
+
+<ol>
+<li>pip install -r requirements.txt</li>
+</ol>
+
+<h3 id="Create%20an%20application%20to%20represent%20the%20RPC">Create an application to represent the RPC</h3>
+
+<ol>
+<li>Go to: https:&#47;&#47;discord.com&#47;developers&#47;applications</li>
+<li>Create new application</li>
+</ol>
+
+<h3 id="Put%20required%20info%20in%20config%20file">Put required info in config file</h3>
+
+<ol>
+<li>Copy Client ID and put it in &#8220;id&#8221; field in config.json</li>
+<li>Go to Rich Presence</li>
+<li>Upload your art assets</li>
+<li>In place of image_keys in config.json, place the name of your art assets</li>
+<li>Add description for your art asset in config.json</li>
+</ol>
+
+<h3 id="Run%20the%20script!">Run the script!</h3>
+
+<ol>
+<li>cd into the directory, <code>cd .&#47;src</code></li>
+<li>Run the script, <code>python3 elisa-rpc.py</code></li>
+</ol>
+
+<p>This program is created under MIT License.</p>

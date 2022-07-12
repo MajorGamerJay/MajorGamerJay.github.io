@@ -1,0 +1,88 @@
+<h1 align="center"> mpdcast-w </h1>
+
+<h3 align="center">MPD+Icecast HTTP music streaming auto-configurator and installer wizard for Arch Linux(Systemd) and its variants!</h3>
+<h3 align="center">Version: 1.0 || Last updated: 28/10/2020</h3>
+
+<p>After running through the whole configurator, you will have your own music server hosted in your PC and will stream through a .mp3!</p>
+
+<h3 id="Dependencies:">Dependencies:</h3>
+
+<ul>
+<li>Bash</li>
+<li>Systemd</li>
+<li>Pacman</li>
+<li>A working internet connection! :)</li>
+</ul>
+
+<h3 id="Note:">Note:</h3>
+
+<p>This will be a system-wide installation for the sake of simplicity and ease-of-use upon startup! If you have local configs, please delete it and the songs that you want to stream should be put on the specified directory, do not try to change it!</p>
+
+<p>Please don&#8217;t do any issues or pull-request if its related to code simplicity or code improvement or making it compatible for most POSIX shells and stuff. Unless it is about adding more features or fixing any bugs, don&#8217;t make a pull request at all! Other than that, you are welcome to make issues if you have problems during installations using the script!</p>
+
+<h3 id="How%20to%20install!">How to install!</h3>
+
+<ol>
+<li>Clone the git repo:
+<code>
+git clone https:&#47;&#47;github.com&#47;MajorGamerJay&#47;mpdcastw-arch.git
+</code></li>
+<li>Run it!</li>
+</ol>
+
+<pre><code>.&#47;mpdcastw-arch
+</code></pre>
+
+<p>and it&#8217;ll run the script for you!</p>
+
+<h3 id="How%20to%20use!">How to use!</h3>
+
+<p>By invoking either mpdcastw-arch or mpdcast-wizard-arch will give you the following options to run:
+<code>
+Arguments:
+    check               automatically check and install the requirements
+    install_mpd         install mpd using pacman
+    install_icecast     install icecast using pacman
+    install_config      move configs in this directory to required locations
+    install             automatically installs everything for you
+</code>
+If you do not have MPD and Icecast installed or you just want to reinstall everything, then do
+<code>.&#47;mpdcastw-arch install</code></p>
+
+<p>It will run you through the whole installation and at the end, it will ask necessary information to build up your config, which also can be done using <code>.&#47;mpdcastw-arch install_config</code>, which will also install the config for you.</p>
+
+<p>Required Information that will be asked for input:</p>
+
+<p>Icecast:
+1. Location: Location that will be displayed on the icecast webpage of your server, be it imaginary or real.
+2. Admin username: Admin username for your server.
+3. Admin password: Admin password for your server.
+4. Hostname: Hostname that will be displayed in your server, giving default hostname is preferred to not to run into any trouble</p>
+
+<p>MPD:
+1. Stream name: Name of the stream (That will be displayed on the icecast page)
+2. Mount name (<name>.mp3): The name of the music file that will be streamed through. For example, if you give Floonarb, it will be Floonarb.mp3</p>
+
+<p>and done! All the mpd and icecast related services will be restarted and you will have your own Icecast + MPD server on port 8000!</p>
+
+<h3 id="What%20now!">What now!</h3>
+
+<p>You stream music through MPD of course! At first, go to http:&#47;&#47;localhost:8000 or your local ip:8000 (with http, not https!) to see if the server is working, you should be greeted on an icecast server webpage.</p>
+
+<p>Even though you cannot see any music stream, that&#8217;s okay! Now, download a MPD client such as <code>ncmpcpp</code> or <code>mpc</code> or whatever&#8217;s your favorite.</p>
+
+<p>Your music directory is <code>&#47;var&#47;lib&#47;mpd&#47;playlists&#47;</code>. Put all your songs or directories of songs there! Update your database in your music player, <code>u</code>-key for ncmpcpp or <code>mpc update</code> for mpc and voila! All your songs will appear on your MPD client, start a song and then go to localhost:8000 and you will see that your MPD client is detected and the song is being streamed there! Now, enjoy your locally hosted songs across your machines or port-forward it to enjoy it even outside your home!</p>
+
+<p>If you find any issues in this guide, please do make an issue or any suggestions, please do make a pull request.</p>
+
+<h3 id="License">License</h3>
+
+<p>Licensed under MIT License ha!</p>
+
+<h3 id="Thanks">Thanks</h3>
+
+<p>Thanks to:
+- Freenode IRC: #gnu and ##linux for Makefiles related problems
+- The Programmer&#8217;s Hangout for helping me with shellscripts
+- GNU for bash
+- and everybody else</p>
