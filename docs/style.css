@@ -83,7 +83,7 @@ td {
 }
 
 .main {
-	background-color: #325;
+	background: rgba(51, 34, 85, 0.5);
     border-radius: 25px;
     border: 5px solid brown;
     margin:auto;
