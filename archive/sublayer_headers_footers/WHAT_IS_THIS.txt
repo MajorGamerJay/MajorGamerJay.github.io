@@ -1,0 +1,2 @@
+THESE HEADERS AND FOOTERS ARE TO BE PLACED UNDER SUBDIRECTORIES IN /src/ so 
+that the links redirect the user to the correct places in navigation file
