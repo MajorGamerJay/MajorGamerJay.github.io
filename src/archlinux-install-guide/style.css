@@ -1,5 +1,5 @@
 body {
-    color: #fed;
+    color: #002b36;
     font-family: sans-serif;
     background-image: url("wallpaper.jpg");
     background-repeat: no-repeat;
@@ -83,7 +83,7 @@ td {
 }
 
 .main {
-	background: rgba(51, 34, 85, 0.5);
+	background: #002b36;
     border-radius: 25px;
     border: 5px solid brown;
     margin:auto;
