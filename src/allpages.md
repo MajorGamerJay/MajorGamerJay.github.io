@@ -18,4 +18,3 @@ Here is a list of all pages in this website. Sorted alphabetically
 - [sel.html](sel/sel.html)
 - [ses.html](ses/ses.html)
 - [tob.html](tob/tob.html)
-- [travelling.html](travelling/travelling.html)
