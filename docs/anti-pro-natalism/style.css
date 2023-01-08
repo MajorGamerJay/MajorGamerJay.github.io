@@ -1,21 +1,19 @@
 body {
-    color: #fed;
+    color: #323232;
     font-family: sans-serif;
-    background-image: url("wallpaper.jpg");
+    background-image: url("./wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
 a.sectionlink {
-    color : #485978;
     font-size : 1.15em;
     font-family : sans-serif;
     font-weight : 700;
 }
 
 a {
-    color: #d45;
 	text-decoration: underline;
 }
 
@@ -83,9 +81,9 @@ td {
 }
 
 .main {
-	background: rgba(51, 34, 85, 0.5);
+	background: #DDD0C8;
     border-radius: 25px;
-    border: 5px solid brown;
+    border: 5px solid #323232;
     margin:auto;
     max-width:800px;
     padding-top:25px;
@@ -95,10 +93,10 @@ td {
 }
 
 .navbar {
-    background-color: brown;
+    background: #DDD0C8;
     border-radius: 25px;
     margin: auto;
-    border: 6px solid #325;
+    border: 6px solid #323232;
     max-width: 800px;
 }
 
