@@ -1,7 +1,7 @@
 body {
-    color: #323232;
+    color: #fed;
     font-family: sans-serif;
-    background-image: url("./wallpaper.jpg");
+    background-image: url("wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -15,6 +15,7 @@ a.sectionlink {
 }
 
 a {
+    color: #d45;
 	text-decoration: underline;
 }
 
@@ -55,11 +56,11 @@ h4 {
 
 strong {
     font-weight : 700;
-    color : #490206;
+    color : #C5D5D5;
 }
 
 em, cite {
-    color: #635f8a;
+    color:#aca4f6;
 }
 
 q, blockquote {
@@ -82,9 +83,9 @@ td {
 }
 
 .main {
-	background: #DDD0C8;
+	background: rgba(51, 34, 85, 0.5);
     border-radius: 25px;
-    border: 5px solid #323232;
+    border: 5px solid brown;
     margin:auto;
     max-width:800px;
     padding-top:25px;
@@ -94,10 +95,10 @@ td {
 }
 
 .navbar {
-    background: #DDD0C8;
+    background-color: brown;
     border-radius: 25px;
     margin: auto;
-    border: 6px solid #323232;
+    border: 6px solid #325;
     max-width: 800px;
 }
 

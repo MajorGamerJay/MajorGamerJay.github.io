@@ -12,15 +12,14 @@ I rarely update the **RSS** feed. Better if you don't follow it.
 0. [anonfiles](./anonfiles.bash)
 
 ### Simply explained:
-0. [fread()](./fread.html)
+0. [fread()](./fread/fread.html)
 
 ### Why you should:
-0. [play Tales of Berseria](./tob.html)
-0. [watch Serial Experiments Lain](./sel.html)
-0. [play NieR Automata(tm)](./nier_automata.html)
+0. [play Tales of Berseria](./tob/tob.html)
+0. [watch Serial Experiments Lain](./sel/sel.html)
+0. [play NieR Automata(tm)](./nier_automata/nier_automata.html)
 
 ### Other articles:
 0. [Discord and Steam - An ideal example of using platforms for social
-engineered scams](./ses.html)
-0. [Travelling](./travelling.html)
-0. [My thoughts and stance on Natalism](./anti-pro-natalism.html)
+engineered scams](./ses/ses.html)
+0. [My thoughts and stance on Natalism](./anti-pro-natalism/anti-pro-natalism.html)
