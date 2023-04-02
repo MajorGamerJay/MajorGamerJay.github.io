@@ -73,4 +73,3 @@ engineered scams</a>
 <a href="./anti-pro-natalism/anti-pro-natalism.html">My thoughts and stance on Natalism</a>
 </li>
 </ol>
-</div>
