@@ -24,6 +24,8 @@ anonfiles
 
 </div>
 
+<p></p>
+
 <div class="main">
 
 <h3>Simply explained:</h3>
@@ -37,9 +39,9 @@ fread()
 </ol>
 
 </div>
+<p></p>
 
-<div class="main">
-
+<div class="main-special">
 <h3>Why you should:</h3>
 <ol>
 <li>
@@ -58,8 +60,9 @@ play NieR Automata(tm)
 </a>
 </li>
 </ol>
-
 </div>
+
+<p></p>
 
 <div class="main">
 

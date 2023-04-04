@@ -1,7 +1,7 @@
 body {
-    color: #323232;
+    color: #c7d5e0;
     font-family: sans-serif;
-    background-image: url("./wallpaper.jpg");
+    background-image: url("wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -15,6 +15,7 @@ a.sectionlink {
 }
 
 a {
+    color: #d45;
 	text-decoration: underline;
 }
 
@@ -55,11 +56,11 @@ h4 {
 
 strong {
     font-weight : 700;
-    color : #490206;
+    color : #C5D5D5;
 }
 
 em, cite {
-    color: #635f8a;
+    color:#aca4f6;
 }
 
 q, blockquote {
@@ -81,13 +82,28 @@ td {
     color : #f8f8f8;
 }
 
-.main {
-	background: #DDD0C8;
+
+.main-special {
+    background: radial-gradient(circle, rgba(23,26,33,0.8) 35%, rgba(27,40,56,0.9) 100%), url('out_trans.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     border-radius: 25px;
-    border: 5px solid #323232;
+    border: 5px solid #2a475e;
     margin:auto;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    max-width:800px;
+    padding-top:25px;
+    padding-bottom:8px;
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.main {
+    background: rgba(23,26,33,0.5);
+    background: radial-gradient(circle, rgba(23,26,33,0.8) 35%, rgba(27,40,56,0.9) 100%);
+    border-radius: 25px;
+    border: 5px solid #2a475e;
+    margin:auto;
     max-width:800px;
     padding-top:25px;
     padding-bottom:8px;
@@ -96,10 +112,11 @@ td {
 }
 
 .navbar {
-    background: #DDD0C8;
+    background: rgb(23,26,33);
+    background: radial-gradient(circle, rgba(23,26,33,1) 35%, rgba(27,40,56,1) 100%);
     border-radius: 25px;
     margin: auto;
-    border: 6px solid #323232;
+    border: 6px solid #2a475e;
     max-width: 800px;
 }
 
