@@ -26,40 +26,39 @@
         <div class="main">
         <img class="banner_center" src="./banner1.gif" alt="Banner 1">
 
-<h2>JavaScript Validation</h2>
-
-<p>Please input a number between 1 and 10:</p>
-
-<p><input id="mom" type="checkbox">
-<input id="numb"></p>
-
-<p><button type="button" onclick="myFunction()">Submit</button></p>
-
-<p id="demo"></p>
-
-<script>
-function myFunction() {
-  // Get the value of the input field with id="numb"
-  let x = document.getElementById("numb").value;
-  // If x is Not a Number or less than one or greater than 10
-  let text;
-  if (isNaN(x) || x < 1 || x > 10) {
-    text = "Input not valid";
-  } else {
-    text = "Input OK";
-  }
-  document.getElementById("demo").innerHTML = text;
-}
-</script>
-
-<script>
-fetch('https://raw.githubusercontent.com/majorgamerjay/majorgamerjay.github.io/development/src/pages.json').then((response) => response.json()).then((json) => console.log(json));
-</script>
-
 <h1 id="All%20available%20articles%20to%20read%20in%20this%20website:">All available articles to read in this website:</h1>
 
+<h4 id="Filter%20by:">Filter by:</h4>
+
+<p><label for="games">Games</label><input id="games" type="checkbox">
+<label for="anime">Anime</label><input id="anime" type="checkbox">
+<label for="review">Review</label><input id="review" type="checkbox">
+<label for="tech">Technology</label><input id="tech" type="checkbox">
+<label for="tutorial">Tutorials</label><input id="tutorial" type="checkbox">
+<label for="book">Books</label><input id="book" type="checkbox">
+<label for="movie">Movies</label><input id="movie" type="checkbox">
+<label for="tv">TV Shows</label><input id="tv" type="checkbox">
+<label for="philosophy">Philosophy</label><input id="philosophy" type="checkbox">
+<label for="opinion">Opinions</label><input id="opinion" type="checkbox">
+<label for="nutshell">Simply Explained</label><input id="nutshell" type="checkbox">
+<label for="critique">Critique</label><input id="critique" type="checkbox">
+<label for="self">My own made things</label><input id="self" type="checkbox"></p>
+
+<h4 id="Sort%20by:">Sort by:</h4>
+
+<p><label for="latest">Latest</label><input id="latest" name="sort" type="radio" checked="checked">
+<label for="oldest">Oldest</label><input id="oldest" name="sort" type="radio">
+<label for="ascending">A-z</label><input id="ascending" name="sort" type="radio">
+<label for="descending">z-A</label><input id="descending" name="sort" type="radio"></p>
+
+<p><button type="button" onclick="reFilter()">Filter</button></p>
+
 <ol id="articles">
+Oops! Sorry, articles could not be loaded.
 </ol>
+
+<script src="./pages.js">
+</script>
 
             <img class="banner_center" src="come-back-soon.gif" alt="footer banner">
             <h5 align="left">written in neovim, powered by <a href="https://github.com/majorgamerjay/grail">grail</a></h5>

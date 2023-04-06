@@ -30,6 +30,8 @@ ul {
 }
 
 li {
+    display: flex;
+    align-items: baseline;
     margin-bottom : 3px;
     list-style-position : inside;
 }
@@ -126,4 +128,18 @@ td {
   margin-right: auto;
   width: 50%;
   border-radius: 10px;
+}
+
+hr {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: .5rem;
+    margin-left: .5rem;
+    height: 1px;
+    border: 0;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: 0px;
+    border-bottom: 1px dotted #ccc;
+    flex: 1 0 1rem;
 }
