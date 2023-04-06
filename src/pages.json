@@ -1,0 +1,70 @@
+{
+    "pages": [
+        {
+            "name": "My stance on anti-natalism/pro-natalism",
+            "tags": [ "philosophy", "opinion" ],
+            "date": "May 28, 2021 00:00:00",
+            "link": "anti-pro-natalism/anti-pro-natalism.html"
+        },
+        {
+            "name": "Arch Linux install guide",
+            "tags": [ "tech", "tutorial" ],
+            "date": "May 16, 2021 00:00:00",
+            "link": "archlinux-install-guide/archlinux-install-guide.html"
+        },
+        {
+            "name": "Elisa-RPC: Discord RPC for Elisa music player",
+            "tags": [ "tech", "tutorial", "self"],
+            "date": "May 16, 2021 00:00:00",
+            "link": "elisa-rpc/elisa-rpc.html"
+        },
+        {
+            "name": "Simply Explained: fread()",
+            "tags": [ "tech", "tutorial", "nutshell"],
+            "date": "May 24, 2021 00:00:00",
+            "link": "fread/fread.html"
+        },
+        {
+            "name": "Internet Freedom",
+            "tags": [ "tech", "opinion", "philosophy" , "critique"],
+            "date": "May 23, 2021 00:00:00",
+            "link": "internet-freedom/internet-freedom.html"
+        },
+        {
+            "name": "MPD-Icecast Radio Installer Wizard for Arch (outdated)",
+            "tags": [ "tech", "tutorial", "self"],
+            "date": "May 16, 2021 00:00:00",
+            "link": "mpdcastw-arch/mpdcastw-arch.html"
+        },
+        {
+            "name": "Why you should play NieR: Automata",
+            "tags": [ "games", "review", "opinion" ],
+            "date": "May 22, 2021 00:00:00",
+            "link": "nier_automata/nier_automata.html"
+        },
+        {
+            "name": "plipple: a symlink based playlist creator",
+            "tags": [ "tech", "tutorial", "self"],
+            "date": "May 17, 2021 00:00:00",
+            "link": "plipple/plipple.html"
+        },
+        {
+            "name": "Why you should watch Serial Experiments Lain",
+            "tags": [ "anime", "review", "opinion" ],
+            "date": "June 21, 2021 00:00:00",
+            "link": "sel/sel.html"
+        },
+        {
+            "name": "Using Steam and Discord for Socially Engineered Scams",
+            "tags": [ "critique", "opinion", "tutorial", "tech" ],
+            "date": "June 24, 2021 00:00:00",
+            "link": "ses/ses.html"
+        },
+        {
+            "name": "Why you should play Tales of Berseria",
+            "tags": [ "anime", "games", "review", "opinion" ],
+            "date": "July 11, 2021 00:00:00",
+            "link": "tob/tob.html"
+        }
+    ]
+}

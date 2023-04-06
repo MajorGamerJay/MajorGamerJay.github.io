@@ -26,28 +26,41 @@
         <div class="main">
         <img class="banner_center" src="./banner1.gif" alt="Banner 1">
 
-<h1 id="All%20pages%20in%20this%20website">All pages in this website</h1>
+<h2>JavaScript Validation</h2>
 
-<p>Here is a list of all pages in this website. Sorted alphabetically</p>
+<p>Please input a number between 1 and 10:</p>
 
-<ul>
-<li><a href="allpages.html">allpages.html</a></li>
-<li><a href="anti-pro-natalism/anti-pro-natalism.html">anti-pro-natalism.html</a></li>
-<li><a href="archlinux-install-guide/archlinux-install-guide.html">archlinux-install-guide.html</a></li>
-<li><a href="elisa-rpc/elisa-rpc.html">elisa-rpc.html</a></li>
-<li><a href="fread/fread.html">fread.html</a></li>
-<li><a href="index/index.html">index.html</a></li>
-<li><a href="internet-freedom/internet-freedom.html">internet-freedom.html</a></li>
-<li><a href="links/links.html">links.html</a></li>
-<li><a href="manuals/manuals.html">manuals.html</a></li>
-<li><a href="mpdcastw-arch/mpdcastw-arch.html">mpdcastw-arch.html</a></li>
-<li><a href="nier_automata/nier_automata.html">nier_automata.html</a></li>
-<li><a href="plipple/plipple.html">plipple.html</a></li>
-<li><a href="resources/resources.html">resources.html</a></li>
-<li><a href="sel/sel.html">sel.html</a></li>
-<li><a href="ses/ses.html">ses.html</a></li>
-<li><a href="tob/tob.html">tob.html</a></li>
-</ul>
+<p><input id="mom" type="checkbox">
+<input id="numb"></p>
+
+<p><button type="button" onclick="myFunction()">Submit</button></p>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  // Get the value of the input field with id="numb"
+  let x = document.getElementById("numb").value;
+  // If x is Not a Number or less than one or greater than 10
+  let text;
+  if (isNaN(x) || x < 1 || x > 10) {
+    text = "Input not valid";
+  } else {
+    text = "Input OK";
+  }
+  document.getElementById("demo").innerHTML = text;
+}
+</script>
+
+<script type="module">
+import bb from './pages.json';
+console.log(bb);
+</script>
+
+<h1 id="All%20available%20articles%20to%20read%20in%20this%20website:">All available articles to read in this website:</h1>
+
+<ol id="articles">
+</ol>
 
             <img class="banner_center" src="come-back-soon.gif" alt="footer banner">
             <h5 align="left">written in neovim, powered by <a href="https://github.com/majorgamerjay/grail">grail</a></h5>
