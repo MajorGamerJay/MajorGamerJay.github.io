@@ -24,9 +24,8 @@ function myFunction() {
 }
 </script>
 
-<script type="module">
-import bb from './pages.json';
-console.log(bb);
+<script>
+fetch('./pages.json').then((response) => response.json()).then((json) => console.log(json));
 </script>
 
 # All available articles to read in this website:

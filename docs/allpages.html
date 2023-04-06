@@ -52,9 +52,8 @@ function myFunction() {
 }
 </script>
 
-<script type="module">
-import bb from './pages.json';
-console.log(bb);
+<script>
+fetch('https://raw.githubusercontent.com/majorgamerjay/majorgamerjay.github.io/development/src/pages.json').then((response) => response.json()).then((json) => console.log(json));
 </script>
 
 <h1 id="All%20available%20articles%20to%20read%20in%20this%20website:">All available articles to read in this website:</h1>
