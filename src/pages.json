@@ -10,13 +10,13 @@
             "name": "Arch Linux install guide",
             "tags": [ "tech", "tutorial" ],
             "date": "May 16, 2021 00:00:00",
-            "link": "archlinux-install-guide/archlinux-install-guide.html"
+            "link": "manuals/archlinux-install-guide.html"
         },
         {
             "name": "Elisa-RPC: Discord RPC for Elisa music player",
             "tags": [ "tech", "tutorial", "self"],
             "date": "May 16, 2021 00:00:00",
-            "link": "elisa-rpc/elisa-rpc.html"
+            "link": "manuals/elisa-rpc.html"
         },
         {
             "name": "Simply Explained: fread()",
@@ -34,7 +34,7 @@
             "name": "MPD-Icecast Radio Installer Wizard for Arch (outdated)",
             "tags": [ "tech", "tutorial", "self"],
             "date": "May 16, 2021 00:00:00",
-            "link": "mpdcastw-arch/mpdcastw-arch.html"
+            "link": "manuals/mpdcastw-arch.html"
         },
         {
             "name": "Why you should play NieR: Automata",
@@ -46,7 +46,7 @@
             "name": "plipple: a symlink based playlist creator",
             "tags": [ "tech", "tutorial", "self"],
             "date": "May 17, 2021 00:00:00",
-            "link": "plipple/plipple.html"
+            "link": "manuals/plipple.html"
         },
         {
             "name": "Why you should watch Serial Experiments Lain",
