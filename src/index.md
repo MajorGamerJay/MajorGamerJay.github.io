@@ -2,6 +2,13 @@
 
 Greetings stranger, this is my personal site. Mostly contains anything that I have added effort to and has article related to useless stuff I cared much about sometimes. I have a few pages listed on top which may contain links you wanna check out. Other than that, just enjoy the shitty website!
 
+As of now (April 8, 2023), the site is still under construction and I will be adding these pages and features:
+
+0. RSS feed and an RSS feed updater
+0. Book list page
+0. Revamping this page, the homepage
+0. Different articles
+
 </div>
 
 <div class="main">
@@ -42,21 +49,21 @@ fread()
 <p></p>
 
 <div class="main-special">
-<h3>Why you should:</h3>
+<h3>Reviews and Critiques</h3>
 <ol>
 <li>
 <a href="./tob/tob.html">
-play Tales of Berseria
+Why you should play Tales of Berseria
 </a>
 </li>
 <li>
 <a href="./sel/sel.html">
-watch Serial Experiments Lain
+Why you should watch Serial Experiments Lain
 </a>
 </li>
 <li>
 <a href="./nier_automata/nier_automata.html">
-play NieR Automata(tm)
+Why you should play NieR Automata(tm)
 </a>
 </li>
 </ol>
