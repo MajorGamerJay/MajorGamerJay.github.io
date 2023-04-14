@@ -1,0 +1,176 @@
+{
+    "tags": [
+        "thriller", "romance", "dystopian",
+        "non-fiction", "self-help", "philosophy",
+        "humayun-ahmed", "himu", "epic", "psychological",
+        "drama", "mystery", "satire", "novel", "short-story",
+        "magic-realism"
+    ],
+
+    "books": [
+        {
+            "name": "Deception Point",
+            "tags": [ "thriller", "mystery" ],
+            "rating": "9.0",
+            "author": "Dan Brown"
+        },
+        {
+            "name": "The Da Vinci Code",
+            "tags": [ "thriller", "mystery" ],
+            "rating": "9.5",
+            "author": "Dan Brown"
+        },
+        {
+            "name": "Everything Everything",
+            "tags": [ "romance" ],
+            "rating": "6.0",
+            "author": "Nicola Yoon"
+        },
+        {
+            "name": "Animal Farm",
+            "tags": [ "dystopian", "satire" ],
+            "rating": "8.0",
+            "author": "George Orwell"
+        },
+        {
+            "name": "Crime and Punishment",
+            "tags": [ "thriller", "psychological" ],
+            "rating": "10",
+            "author": "Fyodor Dostoyevsky"
+        },
+        {
+            "name": "Emotional Intelligence",
+            "tags": [ "non-fiction" ],
+            "rating": "9",
+            "author": "Daniel Goleman"
+        },
+        {
+            "name": "How to change your life in 7 days",
+            "tags": [ "self-help" ],
+            "rating": "1.0",
+            "author": "Paul McKenna"
+        },
+        {
+            "name": "Sedin Chaitramash",
+            "tags": [ "humayun-ahmed" ],
+            "rating": "8.0",
+            "author": "Humayun Ahmed"
+        },
+        {
+            "name": "Holud Himu, Kalo RAB",
+            "tags": [ "himu" ],
+            "rating": "7.5",
+            "author": "Humayun Ahmed"
+        },
+        {
+            "name": "Iliad",
+            "tags": [ "epic" ],
+            "rating": "8.5",
+            "author": "Homer"
+        },
+        {
+            "name": "Lolita",
+            "tags": [ "novel" ],
+            "rating": "7.5",
+            "author": "Vladimir Nobovky"
+        },
+        {
+            "name": "1984",
+            "tags": [ "novel", "dystopian" ],
+            "rating": "9.5",
+            "author": "George Orwell"
+        },
+        {
+            "name": "Koyekti Mrittyu",
+            "tags": [ "drama", "short-story" ],
+            "rating": "8.0",
+            "author": "Jahir Raihan"
+        },
+        {
+            "name": "After Dark",
+            "tags": [ "magic-realism" ],
+            "rating": "7.0",
+            "author": "Haruki Murakami"
+        },
+        {
+            "name": "Aynaghor",
+            "tags": [ "drama", "romance", "magic-realism" ],
+            "rating": "8.0",
+            "author": "Humayun Ahmed"
+        },
+        {
+            "name": "The Great Gatsby",
+            "tags": [ "novel", "drama" ],
+            "rating": "9.0",
+            "author": "F. Scott Fitzgerald"
+        }
+    ],
+
+    "plan_to_read": [
+        {
+            "name": "The Ring and The Book",
+            "author": "Robert Browning"
+        },
+        {
+            "name": "Shadow and Bone",
+            "author": "Leigh Bardugo"
+        },
+        {
+            "name": "Brick Lane",
+            "author": "Monica Ali"
+        },
+        {
+            "name": "Japan's New Middle Class",
+            "author": "Ezra Vogel"
+        },
+        {
+            "name": "Glorius Sahibs",
+            "author": "Michael Edwardes"
+        },
+        {
+            "name": "Kafka on the Shore",
+            "author": "Haruki Murakami"
+        },
+        {
+            "name": "Blackshirts and Reds",
+            "author": "Michael Parenti"
+        },
+        {
+            "name": "Political thought in medieval Islam",
+            "author": "Erwin Isak Jakob Rosenthal"
+        },
+        {
+            "name": "The Prophet",
+            "author": "Khalil Gibran"
+        },
+        {
+            "name": "When Nietzche Wept",
+            "author": "Irvin D. Yalom"
+        }
+    ],
+
+    "authors": [
+        "Dan Brown",
+        "Daniel Goleman",
+        "Erwin Isak Jakob Rosenthal",
+        "Ezra Vogel",
+        "F. Scott Fitzgerald",
+        "Franz Kafka",
+        "Fyodor Dostoyevsky",
+        "George Orwell",
+        "Haruki Murakami",
+        "Homer",
+        "Humayun Ahmed",
+        "Irvin D. Yalom",
+        "Jahir Raihan",
+        "Khalil Gibran",
+        "Leigh Bardugo",
+        "Michael Edwardes",
+        "Michael Parenti",
+        "Monica Ali",
+        "Nicola Yoon",
+        "Paul McKenna",
+        "Robert Browning",
+        "Vladimir Nobovsky"
+    ]
+}
