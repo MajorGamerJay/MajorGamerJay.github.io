@@ -11,13 +11,13 @@
         {
             "name": "Deception Point",
             "tags": [ "thriller", "mystery" ],
-            "rating": "9.0",
+            "rating": "8.5",
             "author": "Dan Brown"
         },
         {
             "name": "The Da Vinci Code",
             "tags": [ "thriller", "mystery" ],
-            "rating": "9.5",
+            "rating": "9.0",
             "author": "Dan Brown"
         },
         {
@@ -41,7 +41,7 @@
         {
             "name": "Emotional Intelligence",
             "tags": [ "non-fiction" ],
-            "rating": "9",
+            "rating": "9.0",
             "author": "Daniel Goleman"
         },
         {
