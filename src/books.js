@@ -35,7 +35,7 @@ function reFilter() {
     // Fetch data and work with it
     fetch('./books.json').then((response) => response.json())
         .then((json) => {
-            addFilteredTags(json.tags); // Add filtered tags from all_tags array
+            // addFilteredTags(json.tags); // Add filtered tags from all_tags array
             var book_list = [];
             book_list = json.books.map(a => ({...a}));
         if (filtered_tags.length != 0)
