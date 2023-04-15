@@ -9,6 +9,10 @@ As of now (April 8, 2023), the site is still under construction and I will be ad
 0. Revamping this page, the homepage
 0. Different articles
 
+**New articles:**
+
+0. [My notes on “Nature of Tragedy” and my opinions on it](./not/not.html)
+
 </div>
 
 <div class="main">
