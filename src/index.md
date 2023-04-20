@@ -11,6 +11,7 @@ As of now (April 8, 2023), the site is still under construction and I will be ad
 
 **New articles:**
 
+0. [Lifespan: A dystopian story](./lifespan/lifespan.html)
 0. [My notes on “Nature of Tragedy” and my opinions on it](./not/not.html)
 
 </div>

@@ -1,4 +1,4 @@
-# All available articles to read in this website:
+# All articles available to read in this website:
 
 #### Filter by:
 <label for="games">Games</label><input id="games" type="checkbox">

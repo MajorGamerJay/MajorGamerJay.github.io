@@ -68,9 +68,15 @@
         },
         {
             "name": "My notes on the \"Nature of Tragedy\" and my opinions on it",
-            "tags": [ "critique", "philosophy", "opinion" ],
+            "tags": [ "critique", "philosophy", "opinion", "book" ],
             "date": "April 15, 2023 00:00:00",
             "link": "not/not.html"
+        },
+        {
+            "name": "Lifespan: A dystopian story",
+            "tags": [ "philosophy", "self", "book" ],
+            "date": "April 20, 2023 00:00:00",
+            "link": "lifespan/lifespan.html"
         }
     ]
 }
