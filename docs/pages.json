@@ -77,6 +77,12 @@
             "tags": [ "philosophy", "self", "book" ],
             "date": "April 20, 2023 00:00:00",
             "link": "lifespan/lifespan.html"
+        },
+        {
+            "name": "Made in Abyss: Why is it good?",
+            "tags": [ "philosophy", "critique", "anime", "review", "opinion" ],
+            "date": "April 23, 2023 00:00:00",
+            "link": "mia/mia.html"
         }
     ]
 }
